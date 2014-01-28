@@ -1,7 +1,7 @@
 linkhub
 =======
 
-Interesting links
+*Interesting links*
 
 http://www.vogella.com/tutorials/Git/article.html
 
@@ -14,6 +14,6 @@ http://robots.thoughtbot.com
 
 
 
-Interesting designs
+*Interesting designs*
 
 http://www.andrewmunsell.com/
