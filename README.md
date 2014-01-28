@@ -11,3 +11,9 @@ http://www.vogella.com/tutorials/Git/article.html
 http://learncodethehardway.org
 
 http://robots.thoughtbot.com
+
+
+
+Interesting designs
+
+http://www.andrewmunsell.com/
