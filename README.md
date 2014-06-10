@@ -19,7 +19,6 @@ http://learncodethehardway.org
 http://robots.thoughtbot.com
 
 
-
 ##Design
 
 ###*Interesting designs*
@@ -50,4 +49,9 @@ http://www.photl.com/ <sub>small and medium images are free. Most of the picture
 http://www.freedigitalphotos.net/ <sub>low-res images are free</sub>
 
 http://www.shutterstock.com/ <sub>paid</sub>
-<sub></sub>
+
+
+##Development##
+
+###*Node.js*
+http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
