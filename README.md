@@ -33,6 +33,10 @@ http://nugetmusthaves.com/Tag/bootstrap
 
 http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers/
 
+http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
+
+http://bootsnipp.com/resources
+
 ###Images
 http://www.freeimages.co.uk/ <sub>free</sub>
 
