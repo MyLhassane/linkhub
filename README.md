@@ -37,6 +37,8 @@ http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
 
 http://bootsnipp.com/resources
 
+http://www.layoutit.com/
+
 ###Images
 http://www.freeimages.co.uk/ <sub>free</sub>
 
