@@ -39,6 +39,14 @@ http://bootsnipp.com/resources
 
 http://www.layoutit.com/
 
+http://startbootstrap.com/template-categories/all/
+
+http://livebootstrap.com/freethemes
+
+http://shapebootstrap.net/?sort=rated
+
+https://wrapbootstrap.com/theme/theorem-bootstrap-admin-interface-WB0FJ149P
+
 ###Images
 http://www.freeimages.co.uk/ <sub>free</sub>
 
